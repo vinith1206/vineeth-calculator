@@ -44,7 +44,7 @@ A beautiful iPhone-style calculator built with Flask and vanilla JavaScript. Fea
    ```
 
 4. **Open your browser**
-   Navigate to `http://localhost:5000`
+   Navigate to `https://vineeth-calculator.vercel.app`
 
 ## 🎯 Usage
 
