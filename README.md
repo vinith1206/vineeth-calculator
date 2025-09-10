@@ -136,9 +136,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👨‍💻 Author
 
 **Vineeth**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-
+- Email: vinith12063@gmail.com
 ## 🙏 Acknowledgments
 
 - Inspired by Apple's iOS Calculator design
